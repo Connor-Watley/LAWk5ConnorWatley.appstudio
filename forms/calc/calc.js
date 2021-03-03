@@ -9,4 +9,4 @@ let n2 = parseInt(prompt("Please enter an integer "))
 
 let summedNumbers = Calculate(n1,n2)
 
-console.log(summedNumbers)
+console.log(`The sum of ${n1} and ${n2} is ${summedNumbers}`)
