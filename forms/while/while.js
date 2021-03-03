@@ -1,5 +1,5 @@
-let iter = 10
-while(iter >= 1){
-    console.log(iter)
-    iter--
+let iter = 1
+while(iter <= 10){
+    console.log(`This is loop iteration ${iter}`)
+    iter++
     }
